@@ -1,0 +1,61 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "name": "Zacarías",
+      "lastname": "Samaniego",
+      "email": "zacariassamaniego@gmail.com",
+      "dni": "12312398",
+      "disabled": false,
+      "contactos": [
+        {
+          "id": 1,
+          "fecha": "2018-10-04",
+          "titulo": "some title",
+          "contenido": "some description"
+        }
+      ],
+      "phone": "1185773422"
+    },
+    {
+      "id": 2,
+      "name": "Jorge",
+      "lastname": "Rearte",
+      "email": "jorgerearte@gmail.com",
+      "disabled": true,
+      "dni": "12312398",
+      "phone": "08106661234"
+    },
+    {
+      "id": 3,
+      "name": "Marta",
+      "lastname": "Nuñez",
+      "email": "jeorgelina@gmail.com",
+      "disabled": true,
+      "dni": "33123546",
+      "phone": "1122334563"
+    },
+    {
+      "name": "Marco",
+      "lastname": "Aurelio",
+      "email": "marcoantonio@hotmail.com",
+      "phone": "11546543",
+      "dni": "11222345",
+      "id": 4,
+      "disabled": false
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "name": "Pintura",
+      "temario": "Pintura1, pintura2, sombras"
+    },
+    {
+      "id": 2,
+      "name": "Carpinteria",
+      "temario": "Cerrucho, Martillo, Clavos"
+    }
+  ],
+  "tipoCusos": []
+}
