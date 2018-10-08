@@ -77,4 +77,34 @@
 
     }
   ]
+  "contactos":[
+   {
+    "id": ,
+    "fecha": ,
+    "titulo": ,
+    "descripcion": ,
+    "idAlumno": 
+   }
+  ],
+  "cursada":[
+    {
+     "id": ,
+     "capacidadMin": ,
+     "capacidadMax":  ,
+     "idSala":  ,
+     "dia": ,
+     "horario": ,
+     "cantClases":  ,
+     "fechaInicio" :  ,
+     "fechaFin":  ,
+     "idCurso": 
+    }
+  ]
+  "sala":[
+    {
+      "id":  ,
+      "nombre": ,
+      "capacidad": 
+   }
+  ]
 }
