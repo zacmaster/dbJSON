@@ -50,17 +50,17 @@
       "id": 1,
       "name": "Pintura",
       "temario": "Pintura1, pintura2, sombras",
-      "tipo": 1,
-      "disabled": false
-
+      "tipo": 2,
+      "disabled": true,
+      "tipoName": "Construcción"
     },
     {
       "id": 2,
       "name": "Carpinteria",
       "temario": "Cerrucho, Martillo, Clavos",
-      "tipo": 2,
-      "disabled": false
-      
+      "tipo": 1,
+      "disabled": false,
+      "tipoName": "Arte"
     }
   ],
   "tipoCursos": [
@@ -68,13 +68,11 @@
       "id": 1,
       "name": "Construcción",
       "disabled": false
-
     },
     {
       "id": 2,
       "name": "Arte",
       "disabled": false
-
     }
   ]
 }
