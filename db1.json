@@ -79,7 +79,7 @@
   "contactos": [
     {
       "id": 0,
-      "fecha": "1539541465",
+      "fecha": 1539541465,
       "asunto": "Curso dibujo",
       "descripcion": "LLamó y consultó por talleres de dibujo",
       "curso": {
@@ -107,7 +107,7 @@
     },
     {
       "id": 1,
-      "fecha": "1539541465",
+      "fecha": 1539541465,
       "asunto": "Curso programación",
       "descripcion": "LLamó y consultó por cursos de programación",
       "curso": {},
@@ -131,7 +131,7 @@
   "cursadas": [
     {
       "id": 0,
-      "fechaInicio": "1539541465",
+      "fechaInicio": 1539558900081,
       "precioClase": 0,
       "cantidadClases": 0,
       "cupoMinimo": 0,
