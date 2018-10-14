@@ -51,7 +51,7 @@
       "name": "Pintura",
       "temario": "Pintura1, pintura2, sombras",
       "tipo": 2,
-      "disabled": true,
+      "disabled": false,
       "tipoName": "Construcción"
     },
     {
@@ -73,6 +73,25 @@
       "id": 2,
       "name": "Arte",
       "disabled": false
+    },
+    {
+      "name": "adsasd",
+      "id": 23,
+      "disabled": false
+    },
+    {
+      "name": "aaaaaa",
+      "id": 24,
+      "disabled": false
+    },
+    {
+      "name": "lkjlkjlkj",
+      "id": 25,
+      "disabled": false
+    },
+    {
+      "name": "zacaa",
+      "id": 26
     }
   ]
 }

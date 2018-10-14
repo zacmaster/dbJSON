@@ -1,0 +1,101 @@
+{
+  "alumnos": [
+    {
+      "id": 0,
+      "nombre": "Zacarías",
+      "apellido": "Samaniego",
+      "dni": "36022030",
+      "fechaNacimiento": 677030400,
+      "fechaRegistro": 1539541465,
+      "email": "zacariassamaniego@gmail.com",
+      "telefono": "46648617",
+      "tipo": ""
+    },
+    {
+      "id": 1,
+      "nombre": "Gonzalo",
+      "apellido": "Cardoso",
+      "email": "gonzalomcardoso@gmail.com",
+      "dni": "35111567",
+      "telefono": "1167275762",
+      "tipo": "",
+      "fechaNacimiento": 1548990000000,
+      "fechaRegistro": 1539544923875
+    },
+    {
+      "id": 2,
+      "nombre": "Gonza Marion",
+      "apellido": "Maricon",
+      "email": "m@m.com",
+      "dni": "123123123",
+      "telefono": "123123123",
+      "tipo": "",
+      "fechaNacimiento": 1539831600000,
+      "fechaRegistro": 1539546053407
+    }
+  ],
+  "cursos": [
+    {
+      "id": 0,
+      "nombre": "Pintura",
+      "descripcion": "",
+      "temario": "",
+      "area": {
+        "id": 0,
+        "nombre": ""
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": 0,
+      "nombre": ""
+    }
+  ],
+  "contactos": [
+    {
+      "id": 0,
+      "fecha": "",
+      "asunto": "",
+      "descripcion": "",
+      "curso": {},
+      "area": {}
+    }
+  ],
+  "cursadas": [
+    {
+      "id": 0,
+      "fechaInicio": "",
+      "precioClase": 0,
+      "cantidadClases": 0,
+      "cupoMinimo": 0,
+      "cupoMaximo": 0,
+      "dias": {},
+      "horarios": {},
+      "curso": {},
+      "instructor": {},
+      "sala": {}
+    }
+  ],
+  "salas": [
+    {
+      "id": 0,
+      "nombre": ""
+    }
+  ],
+  "instructores": [
+    {
+      "id": 0,
+      "nombre": "",
+      "apellido": "",
+      "areas": {}
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": 0,
+      "alumno": {},
+      "cursada": {}
+    }
+  ]
+}
