@@ -46,14 +46,14 @@
       }
     },
     {
-      "id": 1,
-      "nombre": "Historietas",
+      "nombre": "Historieta",
       "descripcion": "Taller de creación de historietas",
       "temario": "Boceto, entintado y pintado",
       "area": {
         "id": 0,
         "nombre": "Arte"
-      }
+      },
+      "id": 1
     },
     {
       "id": 2,
@@ -64,6 +64,16 @@
         "id": 1,
         "nombre": "Informática"
       }
+    },
+    {
+      "nombre": "Pintura al óleo",
+      "descripcion": "pintura al óleo, etc..",
+      "temario": "p1,p2...",
+      "area": {
+        "nombre": "Arte",
+        "id": 0
+      },
+      "id": 3
     }
   ],
   "areas": [
